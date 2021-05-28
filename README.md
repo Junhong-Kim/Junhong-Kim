@@ -5,11 +5,11 @@
     <a href="https://spring.io/projects/spring-boot">
         <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"/>
     </a>
+    <a href="https://spring.io/projects/spring-batch">
+        <img src="https://img.shields.io/badge/SpringBatch-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+    </a>
     <a href="https://hibernate.org">
         <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/>
-    </a>
-    <a href="https://www.djangoproject.com">
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
     </a>
     <br>
     <a href="https://www.docker.com">
@@ -19,6 +19,9 @@
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>
     </a>
     <br>
+    <a href="https://www.djangoproject.com">
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
+    </a>
     <a href="https://vuejs.org/">
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
     </a>
