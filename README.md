@@ -3,7 +3,7 @@
 <h3 align="center">Tech Stack 🧑‍💻</h2>
 <div align="center">
     <a href="https://spring.io/projects/spring-boot">
-        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white"/>
     </a>
     <a href="https://spring.io/projects/spring-batch">
         <img src="https://img.shields.io/badge/SpringBatch-6DB33F?style=flat&logo=Spring&logoColor=white"/>
@@ -12,6 +12,9 @@
         <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/>
     </a>
     <br>
+    <a href="https://www.mysql.com/">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+    </a>
     <a href="https://www.docker.com">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
     </a>
