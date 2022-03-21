@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Always%20Awake&fontAlign=75&fontAlignY=40&color=1e88e5&&fontColor=fff&&fontSize=55)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Slow%20and%20Steady&fontAlign=75&fontAlignY=40&color=1e88e5&&fontColor=fff&&fontSize=55)
 <div align="center">Interested in Backend & Container Infrastructure</div>
 <h3 align="center">Tech Stack 🧑‍💻</h2>
 <div align="center">
@@ -14,6 +14,9 @@
     <br>
     <a href="https://www.mysql.com/">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+    </a>
+    <a href="https://www.elastic.co/">
+        <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=Elasticsearch&logoColor=white"/>
     </a>
     <a href="https://www.docker.com">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
