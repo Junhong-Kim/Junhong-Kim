@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Slow%20and%20Steady&fontAlign=75&fontAlignY=40&color=1e88e5&&fontColor=fff&&fontSize=55)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Slow%20and%20Steady&fontAlign=72&fontAlignY=40&color=1e88e5&&fontColor=fff&&fontSize=55)
 <div align="center">Interested in Backend & Container Infrastructure</div>
 <h3 align="center">Tech Stack 🧑‍💻</h2>
 <div align="center">
